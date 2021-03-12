@@ -1,5 +1,5 @@
 # Pacman_clone
-A clone of Pacman in python
+A clone of Pacman in Visual Basic.net.
 
 ## Description:
 A simple game of Pacman designed in Visual Basic 6.0 containing two ghosts.
@@ -11,6 +11,6 @@ A simple game of Pacman designed in Visual Basic 6.0 containing two ghosts.
 Clone the Repository.
 
 ## Running:
-Just execute the "Pacman.exe" file from "Executable" directory.
+Just execute the "Pacman.exe" file.
 
 ## Created by :-- Abhyush
